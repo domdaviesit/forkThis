@@ -1,21 +1,20 @@
-# Project Title
+# Project - Markdown
 
-## Forkthis Repo for Practice
+## Forked this Repo for Practice
 
-### Write your author name here. eg. By Nicole
+### By Dominic
 
 ### Description
 
-Create a description and fill it in here.
+A quick practise exercise to fork a repo and clone it to our systems.
 
 ## Languages used
 
-What languages were used for this repo:
-List them
+Markdown
 
 ### Known Bugs
 
-Are there any? If so what are they?
+Not yet
 
 ## License
 
@@ -23,6 +22,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+- Code Base Academy
